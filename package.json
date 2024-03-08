@@ -4,7 +4,7 @@
   "description": "A package that introduces Rahul Arulkumaran!",
   "main": "index.js",
   "dependencies": {
-    "@rahulkumaran/ethereum-gas": "1.0.0"
+    "@rahulkumaran/hello-rahul": "0.0.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
