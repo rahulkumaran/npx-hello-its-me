@@ -1,0 +1,26 @@
+{
+  "name": "@rahulkumaran/hello-its-me",
+  "version": "0.0.1",
+  "description": "A package that introduces Rahul Arulkumaran!",
+  "main": "index.js",
+  "dependencies": {
+    "@rahulkumaran/ethereum-gas": "1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "hello-rahul": "index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulkumaran/npx-intro-rahulkumaran.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rahulkumaran/npx-intro-rahulkumaran/issues"
+  },
+  "homepage": "https://github.com/rahulkumaran/npx-intro-rahulkumaran#readme"
+}
