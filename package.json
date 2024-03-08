@@ -17,10 +17,10 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rahulkumaran/npx-intro-rahulkumaran.git"
+    "url": "git+https://github.com/rahulkumaran/npx-hello-its-me.git"
   },
   "bugs": {
-    "url": "https://github.com/rahulkumaran/npx-intro-rahulkumaran/issues"
+    "url": "https://github.com/rahulkumaran/npx-hello-its-me/issues"
   },
-  "homepage": "https://github.com/rahulkumaran/npx-intro-rahulkumaran#readme"
+  "homepage": "https://github.com/rahulkumaran/npx-hello-its-me#readme"
 }
